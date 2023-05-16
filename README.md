@@ -2,10 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post Installation </h1>
+<h1>osTicket - Ticket Life Cycle </h1>
 This tutorial shows simple practice excercises.<br />
-
-
 
 
 <h2>Environments and Technologies Used</h2>
